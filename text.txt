@@ -1,0 +1,6 @@
+index.html
+dashboard.html
+sale.html
+styles.css
+wallet.js
+mining.js
